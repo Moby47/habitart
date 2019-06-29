@@ -183,7 +183,7 @@ nav a:focus {
 	position: absolute;
     top: 13.5%;
     left: 10%;
-    background-color: rgba(255, 255, 255, 0.77);
+    background-color: rgba(255, 255, 255, 0.58);
     width: 80%;
     height: 73%;
     text-align: center;
@@ -377,7 +377,7 @@ a.store:hover{
 /*-- welcome-starts --*/
 .welcome {
 	background:#fff;
-	padding:6em 0 0 0;
+	padding:0 0 0 0;
 }
 .welcome h2{
       color: #000;
@@ -386,8 +386,7 @@ a.store:hover{
 	    padding: 0;
 }
 .welcome p {
-	margin: 1em 0 0px 0;
-	color: #929da5;
+	margin: 0 0 0px 0;
 	font-size: 1em;
 	line-height: 1.8em;
 }
@@ -1916,7 +1915,7 @@ ul.contact_info span {
 		padding: 1.5em 0;
 	}	
 	.item-text h5 {
-		color: #6E6E6E;
+		color: #1b1919;
 		font-size: 3.2em;
 	}
 	.item-text {
@@ -2126,7 +2125,7 @@ ul.contact_info span {
 		min-height: 0;
 	}
 	.welcome {
-		padding: 5em 0 0 0;
+		padding: 0 0 0 0;
 	}
 	.welcome h2 {
 		font-size: 3.4em;
@@ -2504,7 +2503,7 @@ ul.contact_info span {
 		padding: 4.5em 1em 0;
 	}
 	.welcome {
-		padding: 4em 0 0 0;
+		padding: 0 0 0 0;
 	}
 	.cate-grid {
 		width: 75%;
