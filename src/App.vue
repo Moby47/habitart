@@ -33,29 +33,128 @@
         </div>
   
     </div>
-    <div class="screen-shots">
+    <div class="screen-shots" >
             <!--sreen-gallery-cursual-->
-              <div class="sreen-gallery-cursual">
-                <!-- start content_slider -->
-                     <div id="owl-demo" class="owl-carousel">
+              <div class="sreen-gallery-cursual" >
+               
+                  <div id="owl-demo" class="owl-carousel">
+                      <div class="item">
+                        <div class="item-grid">
+                          <div class="item-pic">
+                            <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/1.jpg?alt=media&token=7dd4de02-f27d-4662-9e1f-f4f8a6602102" 
+                            alt="" 
+                            height='300px'
+                            :lazy-src="`/static/images/lazy.gif`"
+                            ></v-img>
+                    <div class="item-text text-center">
+                      <p class="s-para">The standard chunk</p>
+                      <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                    </div>
+                          </div>
+                        </div>
+                      </div>
 
-
-                            <div class="item">
+                      <div class="item">
+                        <div class="item-grid">
+                          <div class="item-pic">
+                            <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/12.jpg?alt=media&token=5375c155-1779-460d-ae3b-55943a017b4c"
+                             alt="" 
+                             height='300px'
+                             :lazy-src="`/static/images/lazy.gif`"
+                             ></v-img>
+                    <div class="item-text text-center">
+                      <p class="s-para">The standard chunk</p>
+                      <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                    </div>
+                                           </div>
+                          </div>
+                      </div>
+                    
+                    
+                      <div class="item">
+                          <div class="item-grid">
+                            <div class="item-pic">
+                              <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/10.jpg?alt=media&token=f777d345-be47-4fa6-b46d-3424c38d2c7f"
+                               alt="" 
+                               height='300px'
+                               :lazy-src="`/static/images/lazy.gif`"
+                               ></v-img>
+                      <div class="item-text text-center">
+                        <p class="s-para">The standard chunk</p>
+                        <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                      </div>
+                                             </div>
+                            </div>
+                        </div>
+                       
+                        <div class="item">
+                            <div class="item-grid">
+                              <div class="item-pic">
+                                <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/7.jpg?alt=media&token=70fd2660-2230-44b2-b374-7d42e4d79e43"
+                                 alt="" 
+                                 height='300px'
+                                 :lazy-src="`/static/images/lazy.gif`"
+                                 ></v-img>
+                        <div class="item-text text-center">
+                          <p class="s-para">The standard chunk</p>
+                          <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                        </div>
+                                               </div>
+                              </div>
+                          </div>
+                       
+                          
+                          <div class="item">
                               <div class="item-grid">
                                 <div class="item-pic">
-                                  <v-img src="/static/images/t1.jpg" alt=""
-                                  :lazy-src="`/static/images/lazy.gif`"
-                                  ></v-img>
+                                  <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/8.jpg?alt=media&token=3212969e-817d-4695-abda-141709141b4f"
+                                   alt="" 
+                                   height='300px'
+                                   :lazy-src="`/static/images/lazy.gif`"
+                                   ></v-img>
                           <div class="item-text text-center">
-                            <p class="s-para">The standard design</p>
+                            <p class="s-para">The standard chunk</p>
                             <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
                           </div>
+                                                 </div>
                                 </div>
-                              </div>
                             </div>
                            
-                             
+                    
+                            <div class="item">
+                                <div class="item-grid">
+                                  <div class="item-pic">
+                                    <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/3.jpg?alt=media&token=3e65c18f-e4d6-466e-9c59-7ea435cbc9ce"
+                                     alt="" 
+                                     height='300px'
+                                     :lazy-src="`/static/images/lazy.gif`"
+                                     ></v-img>
+                            <div class="item-text text-center">
+                              <p class="s-para">The standard chunk</p>
+                              <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
                             </div>
+                                                   </div>
+                                  </div>
+                              </div>
+
+                              <div class="item">
+                                  <div class="item-grid">
+                                    <div class="item-pic">
+                                      <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/5.jpg?alt=media&token=6f6fd967-d0f8-4743-b386-b1de8a362c43"
+                                       alt="" 
+                                       height='300px'
+                                       :lazy-src="`/static/images/lazy.gif`"
+                                       ></v-img>
+                              <div class="item-text text-center">
+                                <p class="s-para">The standard chunk</p>
+                                <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                              </div>
+                                                     </div>
+                                    </div>
+                                </div>
+                      
+                      </div>
+                
                         </div>
               <!--//sreen-gallery-cursual-->
             </div>
@@ -64,18 +163,26 @@
   <div class="gallery">
       <div class="container">
         <h2 class="heading text-center">My Designs</h2>
+
+        <div class='text-center' v-if='loading'>
+        <v-progress-circular
+        indeterminate
+        color="primary"
+      ></v-progress-circular> {{loading_text}}
+      </div>
+
         <div class="gallery-bottom">
 
-            <div class="col-md-3 gallery-grid">
-              <a class="example-image-link" href="/static/images/g1.jpg" data-lightbox="example-set" 
-              data-title="Click the right half of the image to move forwardClick the rightDesign and production of architectural presentation drawings with accompanying working drawings. half of the image to move forward.">
+            <div class="col-md-3 gallery-grid animated tdShrinkInBounce" v-for='post in projects' v-bind:key='post.id'> 
+              <a class="example-image-link" :href="post.image" data-lightbox="example-set" 
+              :data-title="post.note">
               <v-img class="example-image elevation-15" 
-              src="/static/images/g1.jpg" 
+              :src="post.image" 
               :lazy-src="`/static/images/lazy.gif`"
-              alt=""></v-img></a>
+              height='150px'
+              :alt="post.note"></v-img></a>
             </div>
 
-          
             <div class="clearfix"></div>
           </div>
           
@@ -421,13 +528,35 @@ export default {
         timeout: 6000,
         text: 'View My CV?',
         dialog: false,
+        projects:[],
+        loading:true,
+        loading_text:'Building designs...'
     }
   },
   methods:{
     showCV(){
       this.dialog = true
       this.snackbar = false
+    },
+    fetch(){
+      fetch('https://habitart-60df0.firebaseio.com/projects.json')
+      .then(res => res.json())
+      .then(res=>{
+      var con = this.projects = res.posts;
+      this.loading = false;
+      console.log(con)
+      })
+      .catch(error=>{
+        setTimeout(func=>{
+          this.loading_text = 'Poor Network, Reloading...'
+          this.loading = true;
+          this.fetch();
+            },2000)
+      })
     }
+  },
+  mounted(){
+   this.fetch();
   }
 }
 </script>
