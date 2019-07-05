@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>HabitArt - Offline</title>
+       <!-- Web Application Manifest -->
+<link rel="manifest" href="/static/manifest.json">
+<!-- Fix - for safari / ios -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="DStreet">
+
+<meta name="msapplication-TileColor" content="#fff">
+  <meta name="theme-color" content="#3f51b5">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <meta name="description" content="" />
+      <meta name="keywords" content="" />
+
+      <!--fav icon -->
+ <link rel="icon" href="/static/images/home.png">
+
+      <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons' rel="stylesheet">
+      <!-- web fonts -->
+      <link href="/static/css/bootstrap.css" rel='stylesheet' type='text/css' />
+      <!-- Custom Theme files -->
+      <link href="/static/css/style.css" rel="stylesheet" type="text/css" media="all" />
+      
+  </head>
+  <body>
+
+    <div class='jumbotron text-center'>
+        <h2>Your are currently offline</h2>
+        <h5><a href='/'>Retry</a></h5>
+    </div>
+   
+
+<!-- for bootstrap working -->
+<script src="/static/js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+
+ <script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$(".scroll").click(function(event){		
+				event.preventDefault();
+				$('html,body').animate({scrollTop:$(this.hash).offset().top},1200);
+			});
+		});
+	</script>
+
+  </body>
+</html>

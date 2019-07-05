@@ -2,9 +2,25 @@
 <html>
   <head>
       <title>HabitArt</title>
+       <!-- Web Application Manifest -->
+<link rel="manifest" href="/static/manifest.json">
+<!-- Fix - for safari / ios -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="DStreet">
+
+<meta name="msapplication-TileColor" content="#fff">
+  <meta name="theme-color" content="#3f51b5">
+
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-      <meta name="" content="" />
+
+      <meta name="description" content="" />
+      <meta name="keywords" content="" />
+
+      <!--fav icon -->
+ <link rel="icon" href="/static/images/home.png">
+
       <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons' rel="stylesheet">
       <!-- web fonts -->
       <link href="/static/css/bootstrap.css" rel='stylesheet' type='text/css' />
@@ -20,8 +36,23 @@
 
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app" v-cloak></div>
     <!-- built files will be auto injected -->
+
+      <script type="text/javascript">
+        // Initialize the service worker
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/static/sw.js', {
+               // scope: '.' 
+            }).then(function (registration) {
+                // Registration was successful
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            }, function (err) {
+                // registration failed :(
+                console.log('ServiceWorker registration failed: ', err);
+            });
+        }
+    </script>
 
     <script src="/static/js/jquery.min.js"></script>
 

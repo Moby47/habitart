@@ -42,13 +42,14 @@
                         <div class="item-grid">
                           <div class="item-pic">
                             <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/1.jpg?alt=media&token=7dd4de02-f27d-4662-9e1f-f4f8a6602102" 
-                            alt="" 
+                            alt="PROPOSED ABIA ADP ZONAL OFFICE BUILDING. Design and production of an
+                            architectural presentation drawing with accompanying working drawings" 
                             height='300px'
                             :lazy-src="`/static/images/lazy.gif`"
                             ></v-img>
                     <div class="item-text text-center">
-                      <p class="s-para">The standard chunk</p>
-                      <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                      <p class="s-para"> PROPOSED ABIA ADP ZONAL OFFICE BUILDING</p>
+                      <h5 class="s-heading">ABIA ADP</h5>
                     </div>
                           </div>
                         </div>
@@ -58,13 +59,13 @@
                         <div class="item-grid">
                           <div class="item-pic">
                             <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/12.jpg?alt=media&token=5375c155-1779-460d-ae3b-55943a017b4c"
-                             alt="" 
+                             alt="2 BEDROOM BLOCK OF FLATS" 
                              height='300px'
                              :lazy-src="`/static/images/lazy.gif`"
                              ></v-img>
                     <div class="item-text text-center">
-                      <p class="s-para">The standard chunk</p>
-                      <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                      <p class="s-para">  2 BEDROOM BLOCK OF FLATS</p>
+                      <h5 class="s-heading">MRS SALLY A</h5>
                     </div>
                                            </div>
                           </div>
@@ -75,13 +76,13 @@
                           <div class="item-grid">
                             <div class="item-pic">
                               <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/10.jpg?alt=media&token=f777d345-be47-4fa6-b46d-3424c38d2c7f"
-                               alt="" 
+                               alt="HIGH RISE OFFICE COMPLEX" 
                                height='300px'
                                :lazy-src="`/static/images/lazy.gif`"
                                ></v-img>
                       <div class="item-text text-center">
-                        <p class="s-para">The standard chunk</p>
-                        <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                        <p class="s-para"> HIGH RISE OFFICE COMPLEX</p>
+                        <h5 class="s-heading">ACADEMIC PROJECT (MSc) </h5>
                       </div>
                                              </div>
                             </div>
@@ -91,13 +92,14 @@
                             <div class="item-grid">
                               <div class="item-pic">
                                 <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/7.jpg?alt=media&token=70fd2660-2230-44b2-b374-7d42e4d79e43"
-                                 alt="" 
+                                 alt="PROPOSED 3 BEDROOM BUNGALOW. Design and production of an architectural presentation 
+                                 drawing with accompanying working drawings. Umuahia, Abia state" 
                                  height='300px'
                                  :lazy-src="`/static/images/lazy.gif`"
                                  ></v-img>
                         <div class="item-text text-center">
-                          <p class="s-para">The standard chunk</p>
-                          <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                          <p class="s-para"> PROPOSED 3 BEDROOM BUNGALOW</p>
+                          <h5 class="s-heading">MR FELIX O </h5>
                         </div>
                                                </div>
                               </div>
@@ -108,13 +110,14 @@
                               <div class="item-grid">
                                 <div class="item-pic">
                                   <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/8.jpg?alt=media&token=3212969e-817d-4695-abda-141709141b4f"
-                                   alt="" 
+                                   alt=" 6 BEDROOM DETACHED DUPLEX. Design and production of an architectural presentation 
+                                   drawing with accompanying working drawings. Umuahia, Abia state" 
                                    height='300px'
                                    :lazy-src="`/static/images/lazy.gif`"
                                    ></v-img>
                           <div class="item-text text-center">
-                            <p class="s-para">The standard chunk</p>
-                            <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                            <p class="s-para"> 6 BEDROOM DETACHED DUPLEX</p>
+                            <h5 class="s-heading">DR NLEZIANYA </h5>
                           </div>
                                                  </div>
                                 </div>
@@ -125,33 +128,19 @@
                                 <div class="item-grid">
                                   <div class="item-pic">
                                     <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/3.jpg?alt=media&token=3e65c18f-e4d6-466e-9c59-7ea435cbc9ce"
-                                     alt="" 
+                                     alt="Design and production of an architectural 
+                                     presentation drawing with accompanying working drawings. Umuahia,Abia state" 
                                      height='300px'
                                      :lazy-src="`/static/images/lazy.gif`"
                                      ></v-img>
                             <div class="item-text text-center">
-                              <p class="s-para">The standard chunk</p>
-                              <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
+                              <p class="s-para text-uppercase"> Architectural Design</p>
+                              <h5 class="s-heading">MRS SALLY A </h5>
                             </div>
                                                    </div>
                                   </div>
                               </div>
 
-                              <div class="item">
-                                  <div class="item-grid">
-                                    <div class="item-pic">
-                                      <v-img src="https://firebasestorage.googleapis.com/v0/b/habitart-60df0.appspot.com/o/5.jpg?alt=media&token=6f6fd967-d0f8-4743-b386-b1de8a362c43"
-                                       alt="" 
-                                       height='300px'
-                                       :lazy-src="`/static/images/lazy.gif`"
-                                       ></v-img>
-                              <div class="item-text text-center">
-                                <p class="s-para">The standard chunk</p>
-                                <h5 class="s-heading">Lorem Ipsum is simply dummy text printing </h5>
-                              </div>
-                                                     </div>
-                                    </div>
-                                </div>
                       
                       </div>
                 
@@ -331,6 +320,52 @@
                   
                   </v-list>
 
+                  <v-list three-line subheader>
+                    <v-subheader>EDUCATION </v-subheader>
+                    
+                    <div class='table-responsive'>
+                    <table class="table table-bordered table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th>S/N</th>
+                            <th>Duration</th>
+                            <th>Degree</th>
+                            <th>School</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="text-center">1</td>
+                                <td>2016 – 2018 </td>
+                                <td>Masters of Science in Architecture </td>
+                                <td>
+                                    University of Nigeria, Nsukka.
+  
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center">2</td>
+                                <td>2010 – 2014                   </td>
+                                <td>Bachelors Of Science in Architecture </td>
+                                <td>
+                                    University of Nigeria, Nsukka. 
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center">3</td>
+                                <td>2004 – 2010                                     </td>
+                                <td>Secondary School Leaving Certificate </td>
+                                <td>
+                                    Adventist secondary technical collage Owerrinta, Abia State 
+                                </td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                    </div>
+                  
+                  </v-list>
+
                 <v-list three-line subheader>
                     <v-subheader>SKILLS </v-subheader>
                     
@@ -408,51 +443,7 @@
 
                   
 
-                    <v-list three-line subheader>
-                        <v-subheader>WORK EXPERIENCE </v-subheader>
-                        
-                        <div class='table-responsive'>
-                        <table class="table table-bordered table-hover table-striped">
-                            <thead>
-                                <tr>
-                                    <th>S/N</th>
-                                <th>Duration</th>
-                                <th>Degree</th>
-                                <th>School</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="text-center">1</td>
-                                    <td>2016 – 2018 </td>
-                                    <td>Masters of Science in Architecture </td>
-                                    <td>
-                                        University of Nigeria, Nsukka.
-      
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="text-center">2</td>
-                                    <td>2010 – 2014                   </td>
-                                    <td>Bachelors Of Science in Architecture </td>
-                                    <td>
-                                        University of Nigeria, Nsukka. 
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="text-center">3</td>
-                                    <td>2004 – 2010                                     </td>
-                                    <td>Secondary School Leaving Certificate </td>
-                                    <td>
-                                        Adventist secondary technical collage Owerrinta, Abia State 
-                                    </td>
-                                </tr>
-                                
-                            </tbody>
-                        </table>
-                        </div>
-                      
-                      </v-list>
+                    
 
                       <v-list three-line subheader>
                           <v-subheader>REFEREES </v-subheader>

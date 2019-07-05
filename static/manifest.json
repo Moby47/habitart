@@ -1,0 +1,35 @@
+{
+    "name": "Arch-Steve",
+    "short_name": "Arch-Steve",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fefede",
+    "theme_color": "#8cb8e1",
+    "description": "Onyemaobi Steve's Designs",
+    "dir": "ltr",
+    "lang": "en-US",
+    "icons": [
+      {
+        "src": "/static/images/icons/app-icon-48x48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "/static/images/icons/app-icon-96x96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "/static/images/icons/app-icon-144x144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "/static/images/icons/app-icon-256x256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }
+    ]
+  }

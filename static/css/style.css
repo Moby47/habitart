@@ -1,9 +1,9 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+[v-cloak]>*{display:none}[v-cloak]>*{display:none}
+[v-cloak]::before{background-image:url(/static/images/lazy.gif);background-size:cover;content:'Entering DStreet...';
+    position:absolute;left:50%;top:50%;z-index:1;padding-left:5px;color:white;
+    width:180px;height:180px;margin:-75px 0 0 -75px;width:160px;height:160px;
+	font-family:Georgia,'Times New Roman',Times,serif}
+	
 body{
 	padding:0;
 	margin:0;
